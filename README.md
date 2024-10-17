@@ -17,7 +17,7 @@ This project aims to develop an automated system for real-time road damage detec
 
 ## Sample Output Screenshots
 - You can view sample output screenshots in the given link
-- (https://drive.google.com/drive/folders/1uWkqgsZrs3rXm5esrtl9Ft07RIZhir5g?usp=sharing).
+- ([https://drive.google.com/drive/folders/1uWkqgsZrs3rXm5esrtl9Ft07RIZhir5g?usp=sharing](https://drive.google.com/drive/folders/1mCoX16DeJ4kDb_SO8u1nap2hc697KnCG?usp=sharing)).
 
 
 ## Usage
