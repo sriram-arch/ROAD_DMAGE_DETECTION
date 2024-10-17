@@ -15,10 +15,6 @@ This project aims to develop an automated system for real-time road damage detec
 5. **Deployment:** Upon obtaining the trained model (`best.pt`), we deployed it for real-time road damage detection using a live webcam feed. A Python script was used to load the model and run inference on webcam frames, detecting cracks and potholes in real-time.
 
 
-## Video Explanation
-- For a detailed explanation of the project, watch the video explanation here.
-  (https://drive.google.com/file/d/1w6oeV5XTa8Dgc7ZFI12OVcNddqIDny6n/view?usp=sharing)
-  
 ## Sample Output Screenshots
 - You can view sample output screenshots in the given link
 - (https://drive.google.com/drive/folders/1uWkqgsZrs3rXm5esrtl9Ft07RIZhir5g?usp=sharing).
