@@ -1,11 +1,6 @@
-opencv-python==4.8.0.74
-ultralytics==8.0.3
-torch>=1.7.0
-numpy==1.23.5
-
-
-
-
-
-
-
+opencv-python==4.8.0.74  # For handling image and video processing
+ultralytics==8.0.3  # YOLOv8 model for object detection
+torch>=1.7.0  # PyTorch for running deep learning models required by YOLO
+numpy==1.23.5  # For numerical computations used by OpenCV and PyTorch
+Pillow==9.2.0  # For image file handling (used internally by OpenCV and Tkinter)
+tkinter  # Tkinter is a part of the standard library for file dialogs (no pip install required)
