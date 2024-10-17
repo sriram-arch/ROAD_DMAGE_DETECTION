@@ -2,7 +2,6 @@ opencv-python==4.8.0.74
 ultralytics==8.0.3
 torch>=1.7.0
 numpy==1.23.5
-One-Step Setup:
 
 
 
